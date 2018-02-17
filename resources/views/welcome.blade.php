@@ -20,6 +20,8 @@
            <h3>Estrucrura de datos</h3>
            <h4>Estrucrura de datos</h4>
            <div class="alert alert-secondary" role="alert"> This is a secondary alert—check it out! </div>
+           <div class="alert alert-secondary" role="alert"> This is a secondary alert—check it out! </div>
+            <div class="alert alert-secondary" role="alert"> This is a secondary alert—check it out! </div>
 
        </div>
 
